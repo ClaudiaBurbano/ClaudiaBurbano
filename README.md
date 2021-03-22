@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClaudiaBurbano
 - 👀 I’m interested in composite construction materials
-- 🌱 I’m currently learning mechanical characterization of composite materials
+- 🌱 I’m currently learning about mechanical characterization of composite materials
 - 💞️ I’m looking to share my ideas and learning from other thoughts
 - 📫 How to reach me @claudia.g.burbano
 
